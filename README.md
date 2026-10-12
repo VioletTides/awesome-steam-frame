@@ -60,6 +60,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [MatineeVR](https://embedding-shapes.itch.io/matineevr) - An experimental, open-source VR video player built specifically to run standalone on Steam Frame.
 - [framecorder](https://framecorder.coah80.com/) - A recorder for the steam frame that runs on the headset itself. record, clip, sync.
 - [video2webxr](https://github.com/phit/video2webxr) - Watch YouTube 360°/VR180 videos and videos on other sites in your PC VR headset via WebXR (Chromium extension).
+- [Gantry](https://0x5311f56b.itch.io/gantry) - An OpenXR VR video player for Linux. x64 / arm64. Steam Frame native as well as desktop.
 
 ### Eye Tracking
 
