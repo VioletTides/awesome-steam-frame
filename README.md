@@ -124,6 +124,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [Steam Frame Controllers Gamepad Coupler](https://makerworld.com/en/models/3404888-steam-frame-controllers-gamepad-coupler#profileId-3877306) - 3D printable Steam Frame controller adapter that merges two controller into one.
 - [DIY Top Strap](https://www.printables.com/model/1861609-steam-frame-diy-top-strap-2-clips-webbing) - 3D printable top strap for the Steam Frame.
 - [Steam Frame Modular Back Clip](https://www.patreon.com/SpanishPotato/posts/steam-frame-back-171534740) - A modular clip for the back of the Steam Frame, which can attach multiple mods onto it like external batteries.
+- [Steam Frame Battery Add On v2](https://makerworld.com/en/models/3430937-steam-frame-battery-add-on-v2#profileId-3911577) - A 3D printable add on for extra battery.
 
 ------------------
 
