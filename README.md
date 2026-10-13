@@ -83,6 +83,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [frame-voice](https://github.com/techieyann/frame-voice) - Voice dictation for Steam Frame. Speak into a text field using your controllers, without a keyboard or an always-on microphone.
 - [whisper-frame](https://github.com/groffta/whisper-frame) - On-device push-to-talk voice typing for the Steam Frame.
 - [frame-aux-shortcuts](https://github.com/sasaken1102r/frame-aux-shortcuts) - Shortcuts on the Steam Frame aux button: mute, brightness, passthrough, screenshot and your own commands.
+- [WayVR](https://github.com/wayvr-org/wayvr#installing-on-steam-frame) - A lightweight OpenXR/OpenVR overlay for Wayland and X11 desktops.
 
 --------------------
 
