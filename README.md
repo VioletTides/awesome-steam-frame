@@ -134,3 +134,4 @@ A curated list of steam frame compatible software, hardware and more.
 - [FramePort](https://github.com/spoopyghosty0/frameport) - Port games to work with the Steam Frame.
 - [Quest2Frame](https://github.com/vesper8/Quest2Frame) - Transfer Quest games to Steam Frame (Original repository was taken down. This is a fork).
 - [Wiicompiled VR Frame](https://github.com/mitch030504/Wiicompiled_VR_Frame) - Wiicompiled OpenXR for steam frame.
+- [Baiji](https://github.com/thejerf/baijiSteamVR) - Steam Frame-specific fork of Dolphin for Wii and Gamecube games; integrated 3D and Steam Frame controller support.
