@@ -54,6 +54,7 @@ A curated list of steam frame compatible software, hardware and more.
 - [framely](https://github.com/SteamFramelyHomebrew/framely) - A unified spatial launcher for Steam Frame and a management panel available both inside the headset and in a PC browser.
 - [HEV Power Level SFX](https://github.com/royal32/Frame-HEV-Power-Level-SFX) - Double-tap your Steam Frame's power button to hear “Power level is … percent” in the original Half-Life HEV suit voice.
 - [Rift S Linux](https://github.com/lbgos/rift-s-linux) - Rift S, liberated. No Oculus software, no Windows, no Meta account.
+- [FramePicoTracker](https://github.com/Rulez777/FramePicoTracker) - An open research handoff for affordable PICO Swift body tracking on Steam Frame.
 
 ### Video Playing / Streaming / Recording
 
